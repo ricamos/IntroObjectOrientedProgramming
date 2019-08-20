@@ -30,6 +30,7 @@ app.py - são exemplos de comandos para a utilização dos modulos general_cloth
 O arquivo app.py possui testes e exemplos para a utilização dos modulos.
 
 ## Licensing <a name="licensing"></a>
+Consulte [LICENSE](https://github.com/ricamos/IntroObjectOrientedProgramming/blob/master/LICENSE) para saber como utilizar os codigos disponíveis.
 
 ## Authors <a name="author"></a>
 Udacity and Ricardo Coelho.
